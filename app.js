@@ -49,7 +49,7 @@ io.on('connection', function(socket) {
 
             source: 'en',
 
-            target: 'fr'
+            target: 'kr'
 
         }, function(err, translation) {
 
